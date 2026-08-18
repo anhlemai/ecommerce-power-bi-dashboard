@@ -39,7 +39,7 @@ The project focuses on translating transactional and customer data into business
 
 ## Files
 
-- [View full insight report](./insight_report.pdf) — Detailed business analysis and recommendations
+- [`insight_report.pdf`](./insight_report.pdf) — Full business analysis and recommendations
 - [Download Power BI source file (.pbix)](https://drive.google.com/file/d/1tr9t2PZXCXLO9VEPUD_KZmyC8ITHrvJ7/view?usp=sharing)
 
 ## Note
